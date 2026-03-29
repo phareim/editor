@@ -1,0 +1,16 @@
+{
+  "name": "awesome-terminal-editor",
+  "version": "1.0.0",
+  "description": "A playful terminal text editor written in JavaScript! 🎉",
+  "main": "editor.js",
+  "bin": {
+    "aed": "./editor.js"
+  },
+  "scripts": {
+  },
+  "dependencies": {
+    "blessed": "^0.1.81"
+  },
+  "keywords": ["editor", "terminal", "text", "fun"],
+  "author": "Petter Hareim"
+} 
